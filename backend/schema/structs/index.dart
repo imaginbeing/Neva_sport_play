@@ -1,0 +1,20 @@
+export '/backend/schema/util/schema_util.dart';
+
+export 'catalog_view_struct.dart';
+export 'chat_details_struct.dart';
+export 'chat_view_struct.dart';
+export 'message_view_struct.dart';
+export 'session_schema_struct.dart';
+export 'tournments_struct.dart';
+export 'trainer_list_view_struct.dart';
+export 'trainer_profile_schema_struct.dart';
+export 'user_struct.dart';
+export 'event_struct.dart';
+export 'event_data_struct.dart';
+export 'gallerylist_struct.dart';
+export 'profiledata_struct.dart';
+export 'schedule_struct.dart';
+export 'servicesschema_struct.dart';
+export 'session_scemadata_struct.dart';
+export 'tournmentsdata_struct.dart';
+export 'trainer_info_struct.dart';
